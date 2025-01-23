@@ -4,27 +4,27 @@ Output :
 ```
 ----------------------Benchmarking store functions----------------------
 
-Total time Hruthik's sol : 0.492564
-Avg per round (1000 rounds) : 0.000493
+Total time Hruthik's sol : 0.506968
+Avg per round (1000 rounds) : 0.000507
 
-Total time Saurabh's sol : 0.500290
-Avg per round (1000 rounds) : 0.000500
+Total time Saurabh's sol : 0.540768
+Avg per round (1000 rounds) : 0.000541
 
 
 -----------------------Benchmarking add functions-----------------------
 
-Total time Hruthik's sol : 0.008915
+Total time Hruthik's sol : 0.009044
 Avg per round (500000 rounds) : 0.000000
 
-Total time Saurabh's sol : 0.008404
+Total time Saurabh's sol : 0.006737
 Avg per round (500000 rounds) : 0.000000
 
 -------------------Benchmarking retrieval functions-------------------
 
-Total time Hruthik's sol : 0.030000
+Total time Hruthik's sol : 0.027399
 Avg per round (500000 rounds) : 0.000000
 
-Total time Saurabh's sol : 0.028325
+Total time Saurabh's sol : 0.027737
 Avg per round (500000 rounds) : 0.000000
 ```
 

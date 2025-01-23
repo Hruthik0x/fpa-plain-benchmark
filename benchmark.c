@@ -188,18 +188,7 @@ void benchmark_add(u32 rounds)
 
 void hruthik_sol_retrieve(char* str, u8 nums[2])
 {
-    if (nums[0] == 100)
-    {
-        sprintf(str, "100.00");
-    }
-    else if (nums[0] >= 10)
-    {
-        sprintf(str, "%d.%02d", nums[0], nums[1]);
-    }
-    else 
-    {
-        sprintf(str, "%d.%02d", nums[0], nums[1]);
-    }
+    sprintf(str, "%d.%02d", nums[0], nums[1]);
 }
 
 void sauabh_sol_retrieve(char* str, u16 nums)
